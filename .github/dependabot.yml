@@ -5,11 +5,11 @@ updates:
   schedule:
     interval: daily
     time: "10:00"
-    timezone: Europe/Vienna
-  pull-request-branch-name:
+    timezone: Austin Texas 
+  pull-request-jerome940
     separator: "-"
   open-pull-requests-limit: 99
   allow:
   - dependency-type: direct
   - dependency-type: indirect
-  rebase-strategy: disabled
+  rebase-strategy: enable 
